@@ -9,7 +9,6 @@ This Docker image extends the excellent [rocker tidyverse image](https://hub.doc
 - Java 8
 - rJava
 - RODBC, RJDBC         
-- DPAR 101                  
 - SQL Server ODBC 11 
 - word2vector
 - text2vec                    
